@@ -17,7 +17,7 @@ Lose condition: Health drops to 0 or below
 
 import numpy as np
 import matplotlib.pyplot as plt
-
+import numpy as np
 # ==================== CONFIGURATION ====================
 
 # Grid size
@@ -44,6 +44,7 @@ STARTING_HEALTH = 100
 
 # Actions
 ACTIONS = ['UP', 'DOWN', 'LEFT', 'RIGHT']
+
 
 # ==================== AGENT CLASS ====================
 
