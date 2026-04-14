@@ -1,0 +1,664 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-03-30T20:02:23.549065",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 204,
+      "worst_steps": 288,
+      "avg_steps": 232.66666666666666,
+      "avg_energy": 67.33333333333333,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 167,
+          "steps": 288,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "generation": 2,
+          "episodes": 21,
+          "steps": 204,
+          "traps_hit": 0,
+          "energy_remaining": 96
+        },
+        {
+          "generation": 3,
+          "episodes": 38,
+          "steps": 206,
+          "traps_hit": 0,
+          "energy_remaining": 94
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-30T20:04:47.423639",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 292,
+      "worst_steps": 463,
+      "avg_steps": 381.0,
+      "avg_energy": 50.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 22,
+          "steps": 292,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 2,
+          "episodes": 86,
+          "steps": 388,
+          "traps_hit": 0,
+          "energy_remaining": 55
+        },
+        {
+          "generation": 3,
+          "episodes": 86,
+          "steps": 463,
+          "traps_hit": 0,
+          "energy_remaining": 87
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-30T20:10:13.462488",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 231,
+      "worst_steps": 295,
+      "avg_steps": 266.6666666666667,
+      "avg_energy": 30.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 42,
+          "steps": 295,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "generation": 2,
+          "episodes": 56,
+          "steps": 231,
+          "traps_hit": 0,
+          "energy_remaining": 69
+        },
+        {
+          "generation": 3,
+          "episodes": 23,
+          "steps": 274,
+          "traps_hit": 1,
+          "energy_remaining": 16
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-30T20:12:28.617572",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 138,
+      "worst_steps": 237,
+      "avg_steps": 178.0,
+      "avg_energy": 122.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 108,
+          "steps": 159,
+          "traps_hit": 0,
+          "energy_remaining": 141
+        },
+        {
+          "generation": 2,
+          "episodes": 51,
+          "steps": 237,
+          "traps_hit": 0,
+          "energy_remaining": 63
+        },
+        {
+          "generation": 3,
+          "episodes": 69,
+          "steps": 138,
+          "traps_hit": 0,
+          "energy_remaining": 162
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-30T20:33:47.649157",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 265,
+      "worst_steps": 289,
+      "avg_steps": 280.0,
+      "avg_energy": 10.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 199,
+          "steps": 289,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "generation": 2,
+          "episodes": 69,
+          "steps": 286,
+          "traps_hit": 1,
+          "energy_remaining": 4
+        },
+        {
+          "generation": 3,
+          "episodes": 12,
+          "steps": 265,
+          "traps_hit": 2,
+          "energy_remaining": 15
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T09:36:31.062659",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 144,
+      "worst_steps": 225,
+      "avg_steps": 174.66666666666666,
+      "avg_energy": 125.33333333333333,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 83,
+          "steps": 144,
+          "traps_hit": 0,
+          "energy_remaining": 156
+        },
+        {
+          "generation": 2,
+          "episodes": 10,
+          "steps": 225,
+          "traps_hit": 0,
+          "energy_remaining": 75
+        },
+        {
+          "generation": 3,
+          "episodes": 11,
+          "steps": 155,
+          "traps_hit": 0,
+          "energy_remaining": 145
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T09:38:52.129420",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 229,
+      "worst_steps": 290,
+      "avg_steps": 251.0,
+      "avg_energy": 45.666666666666664,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 71,
+          "steps": 229,
+          "traps_hit": 1,
+          "energy_remaining": 61
+        },
+        {
+          "generation": 2,
+          "episodes": 57,
+          "steps": 234,
+          "traps_hit": 0,
+          "energy_remaining": 66
+        },
+        {
+          "generation": 3,
+          "episodes": 10,
+          "steps": 290,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T09:41:35.335397",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 125,
+      "worst_steps": 276,
+      "avg_steps": 215.33333333333334,
+      "avg_energy": 134.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 73,
+          "steps": 276,
+          "traps_hit": 0,
+          "energy_remaining": 192
+        },
+        {
+          "generation": 2,
+          "episodes": 123,
+          "steps": 245,
+          "traps_hit": 1,
+          "energy_remaining": 45
+        },
+        {
+          "generation": 3,
+          "episodes": 61,
+          "steps": 125,
+          "traps_hit": 1,
+          "energy_remaining": 165
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T09:43:14.604909",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 190,
+      "worst_steps": 278,
+      "avg_steps": 227.0,
+      "avg_energy": 69.66666666666667,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 94,
+          "steps": 278,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 2,
+          "episodes": 51,
+          "steps": 213,
+          "traps_hit": 0,
+          "energy_remaining": 87
+        },
+        {
+          "generation": 3,
+          "episodes": 54,
+          "steps": 190,
+          "traps_hit": 1,
+          "energy_remaining": 100
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T09:45:17.017942",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 173,
+      "worst_steps": 294,
+      "avg_steps": 249.33333333333334,
+      "avg_energy": 50.666666666666664,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 127,
+          "steps": 294,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "generation": 2,
+          "episodes": 99,
+          "steps": 173,
+          "traps_hit": 0,
+          "energy_remaining": 127
+        },
+        {
+          "generation": 3,
+          "episodes": 2,
+          "steps": 281,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:42:07.224464",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 143,
+      "worst_steps": 296,
+      "avg_steps": 237.66666666666666,
+      "avg_energy": 62.333333333333336,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 100,
+          "steps": 143,
+          "traps_hit": 0,
+          "energy_remaining": 157
+        },
+        {
+          "generation": 2,
+          "episodes": 120,
+          "steps": 296,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "generation": 3,
+          "episodes": 25,
+          "steps": 274,
+          "traps_hit": 0,
+          "energy_remaining": 26
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:43:18.724689",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 184,
+      "worst_steps": 229,
+      "avg_steps": 209.0,
+      "avg_energy": 91.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 83,
+          "steps": 184,
+          "traps_hit": 0,
+          "energy_remaining": 116
+        },
+        {
+          "generation": 2,
+          "episodes": 9,
+          "steps": 214,
+          "traps_hit": 0,
+          "energy_remaining": 86
+        },
+        {
+          "generation": 3,
+          "episodes": 44,
+          "steps": 229,
+          "traps_hit": 0,
+          "energy_remaining": 71
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:46:12.114182",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 125,
+      "worst_steps": 284,
+      "avg_steps": 196.66666666666666,
+      "avg_energy": 103.33333333333333,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 137,
+          "steps": 181,
+          "traps_hit": 0,
+          "energy_remaining": 119
+        },
+        {
+          "generation": 2,
+          "episodes": 161,
+          "steps": 125,
+          "traps_hit": 0,
+          "energy_remaining": 175
+        },
+        {
+          "generation": 3,
+          "episodes": 6,
+          "steps": 284,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:49:35.403948",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 230,
+      "worst_steps": 259,
+      "avg_steps": 246.33333333333334,
+      "avg_energy": 47.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 35,
+          "steps": 230,
+          "traps_hit": 1,
+          "energy_remaining": 60
+        },
+        {
+          "generation": 2,
+          "episodes": 55,
+          "steps": 250,
+          "traps_hit": 1,
+          "energy_remaining": 40
+        },
+        {
+          "generation": 3,
+          "episodes": 109,
+          "steps": 259,
+          "traps_hit": 0,
+          "energy_remaining": 41
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:52:56.124086",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 162,
+      "worst_steps": 278,
+      "avg_steps": 221.66666666666666,
+      "avg_energy": 78.33333333333333,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 228,
+          "steps": 162,
+          "traps_hit": 0,
+          "energy_remaining": 138
+        },
+        {
+          "generation": 2,
+          "episodes": 22,
+          "steps": 278,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 3,
+          "episodes": 28,
+          "steps": 225,
+          "traps_hit": 0,
+          "energy_remaining": 75
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T16:56:03.185010",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 156,
+      "worst_steps": 284,
+      "avg_steps": 239.66666666666666,
+      "avg_energy": 60.333333333333336,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 79,
+          "steps": 284,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 2,
+          "episodes": 77,
+          "steps": 279,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 3,
+          "episodes": 22,
+          "steps": 156,
+          "traps_hit": 0,
+          "energy_remaining": 144
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T17:01:53.926365",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 239,
+      "worst_steps": 253,
+      "avg_steps": 244.33333333333334,
+      "avg_energy": 55.666666666666664,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 119,
+          "steps": 239,
+          "traps_hit": 0,
+          "energy_remaining": 61
+        },
+        {
+          "generation": 2,
+          "episodes": 24,
+          "steps": 253,
+          "traps_hit": 0,
+          "energy_remaining": 47
+        },
+        {
+          "generation": 3,
+          "episodes": 83,
+          "steps": 241,
+          "traps_hit": 0,
+          "energy_remaining": 59
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T10:12:44.221983",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 148,
+      "worst_steps": 301,
+      "avg_steps": 214.0,
+      "avg_energy": 89.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 156,
+          "steps": 301,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 2,
+          "episodes": 34,
+          "steps": 193,
+          "traps_hit": 0,
+          "energy_remaining": 88
+        },
+        {
+          "generation": 3,
+          "episodes": 18,
+          "steps": 148,
+          "traps_hit": 0,
+          "energy_remaining": 165
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T10:31:09.774412",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 162,
+      "worst_steps": 312,
+      "avg_steps": 243.33,
+      "avg_energy": 54.33,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 112,
+          "steps": 312,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 2,
+          "episodes": 63,
+          "steps": 256,
+          "traps_hit": 1,
+          "energy_remaining": 42
+        },
+        {
+          "generation": 3,
+          "episodes": 29,
+          "steps": 162,
+          "traps_hit": 0,
+          "energy_remaining": 113
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T10:48:55.103847",
+      "version": "Version 2",
+      "num_organisms": 3,
+      "num_successes": 3,
+      "best_steps": 171,
+      "worst_steps": 267,
+      "avg_steps": 221.0,
+      "avg_energy": 76.33,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 88,
+          "steps": 267,
+          "traps_hit": 0,
+          "energy_remaining": 31
+        },
+        {
+          "generation": 2,
+          "episodes": 45,
+          "steps": 225,
+          "traps_hit": 0,
+          "energy_remaining": 74
+        },
+        {
+          "generation": 3,
+          "episodes": 14,
+          "steps": 171,
+          "traps_hit": 1,
+          "energy_remaining": 124
+        }
+      ]
+    }
+  ]
+}

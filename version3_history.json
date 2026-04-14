@@ -1,0 +1,1399 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-03-31T16:20:00.921960",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 81,
+      "worst_steps": 114,
+      "avg_steps": 95.7,
+      "avg_food_found": 4.6,
+      "avg_energy": 24.3,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 485,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 2,
+          "episodes": 140,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 3,
+          "episodes": 172,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 4,
+          "episodes": 133,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 5,
+          "episodes": 91,
+          "steps": 99,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 6,
+          "episodes": 320,
+          "steps": 114,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 6
+        },
+        {
+          "generation": 7,
+          "episodes": 154,
+          "steps": 81,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 39
+        },
+        {
+          "generation": 8,
+          "episodes": 178,
+          "steps": 98,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 9,
+          "episodes": 201,
+          "steps": 89,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 31
+        },
+        {
+          "generation": 10,
+          "episodes": 180,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 29
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T16:49:58.725359",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 85,
+      "worst_steps": 120,
+      "avg_steps": 101.7,
+      "avg_food_found": 4.5,
+      "avg_energy": 18.3,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 336,
+          "steps": 90,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 30
+        },
+        {
+          "generation": 2,
+          "episodes": 181,
+          "steps": 102,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 18
+        },
+        {
+          "generation": 3,
+          "episodes": 92,
+          "steps": 115,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 5
+        },
+        {
+          "generation": 4,
+          "episodes": 96,
+          "steps": 100,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 20
+        },
+        {
+          "generation": 5,
+          "episodes": 154,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 6,
+          "episodes": 195,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 29
+        },
+        {
+          "generation": 7,
+          "episodes": 256,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 1
+        },
+        {
+          "generation": 8,
+          "episodes": 472,
+          "steps": 85,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 35
+        },
+        {
+          "generation": 9,
+          "episodes": 190,
+          "steps": 108,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 12
+        },
+        {
+          "generation": 10,
+          "episodes": 285,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T17:14:53.077996",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 85,
+      "worst_steps": 120,
+      "avg_steps": 107.5,
+      "avg_food_found": 4.6,
+      "avg_energy": 12.5,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 92,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 1,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 2,
+          "episodes": 243,
+          "steps": 85,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 35
+        },
+        {
+          "generation": 3,
+          "episodes": 149,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 4,
+          "episodes": 146,
+          "steps": 109,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        },
+        {
+          "generation": 5,
+          "episodes": 158,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 1
+        },
+        {
+          "generation": 6,
+          "episodes": 194,
+          "steps": 108,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 12
+        },
+        {
+          "generation": 7,
+          "episodes": 206,
+          "steps": 109,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        },
+        {
+          "generation": 8,
+          "episodes": 263,
+          "steps": 109,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        },
+        {
+          "generation": 9,
+          "episodes": 184,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 10,
+          "episodes": 312,
+          "steps": 96,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 24
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T17:55:27.325423",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 84,
+      "worst_steps": 119,
+      "avg_steps": 100.9,
+      "avg_food_found": 4.7,
+      "avg_energy": 19.1,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 74,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 2,
+          "energy_remaining": 1
+        },
+        {
+          "generation": 2,
+          "episodes": 414,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 3,
+          "episodes": 290,
+          "steps": 86,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 34
+        },
+        {
+          "generation": 4,
+          "episodes": 170,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 5,
+          "episodes": 260,
+          "steps": 111,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 9
+        },
+        {
+          "generation": 6,
+          "episodes": 205,
+          "steps": 84,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 36
+        },
+        {
+          "generation": 7,
+          "episodes": 339,
+          "steps": 114,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 6
+        },
+        {
+          "generation": 8,
+          "episodes": 203,
+          "steps": 92,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 28
+        },
+        {
+          "generation": 9,
+          "episodes": 234,
+          "steps": 92,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 28
+        },
+        {
+          "generation": 10,
+          "episodes": 177,
+          "steps": 117,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 3
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T18:03:20.147746",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 85,
+      "worst_steps": 117,
+      "avg_steps": 103.2,
+      "avg_food_found": 4.9,
+      "avg_energy": 16.8,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 308,
+          "steps": 117,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 3
+        },
+        {
+          "generation": 2,
+          "episodes": 143,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 29
+        },
+        {
+          "generation": 3,
+          "episodes": 94,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 4,
+          "episodes": 87,
+          "steps": 115,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 5
+        },
+        {
+          "generation": 5,
+          "episodes": 189,
+          "steps": 85,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 35
+        },
+        {
+          "generation": 6,
+          "episodes": 301,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 7,
+          "episodes": 273,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 8,
+          "episodes": 152,
+          "steps": 101,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 19
+        },
+        {
+          "generation": 9,
+          "episodes": 291,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 10,
+          "episodes": 192,
+          "steps": 115,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T11:07:52.234281",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 90,
+      "worst_steps": 116,
+      "avg_steps": 105.3,
+      "avg_food_found": 5.0,
+      "avg_energy": 14.7,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 534,
+          "steps": 90,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 30
+        },
+        {
+          "generation": 2,
+          "episodes": 225,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 3,
+          "episodes": 281,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 4,
+          "episodes": 156,
+          "steps": 98,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 5,
+          "episodes": 140,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 6,
+          "episodes": 172,
+          "steps": 114,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 6
+        },
+        {
+          "generation": 7,
+          "episodes": 142,
+          "steps": 116,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 4
+        },
+        {
+          "generation": 8,
+          "episodes": 399,
+          "steps": 93,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 27
+        },
+        {
+          "generation": 9,
+          "episodes": 206,
+          "steps": 112,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 10,
+          "episodes": 187,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T11:14:44.413922",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 85,
+      "worst_steps": 119,
+      "avg_steps": 102.0,
+      "avg_food_found": 4.5,
+      "avg_energy": 18.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 383,
+          "steps": 107,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 13
+        },
+        {
+          "generation": 2,
+          "episodes": 132,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 3,
+          "episodes": 136,
+          "steps": 95,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 25
+        },
+        {
+          "generation": 4,
+          "episodes": 344,
+          "steps": 85,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 35
+        },
+        {
+          "generation": 5,
+          "episodes": 189,
+          "steps": 90,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 30
+        },
+        {
+          "generation": 6,
+          "episodes": 242,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 7,
+          "episodes": 278,
+          "steps": 95,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 25
+        },
+        {
+          "generation": 8,
+          "episodes": 236,
+          "steps": 113,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 7
+        },
+        {
+          "generation": 9,
+          "episodes": 115,
+          "steps": 101,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 19
+        },
+        {
+          "generation": 10,
+          "episodes": 140,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 1
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T14:40:34.199240",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 81,
+      "worst_steps": 120,
+      "avg_steps": 105.6,
+      "avg_food_found": 4.9,
+      "avg_energy": 14.4,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 124,
+          "steps": 99,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 2,
+          "episodes": 228,
+          "steps": 81,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 39
+        },
+        {
+          "generation": 3,
+          "episodes": 489,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 4,
+          "episodes": 52,
+          "steps": 111,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 9
+        },
+        {
+          "generation": 5,
+          "episodes": 180,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 6,
+          "episodes": 45,
+          "steps": 113,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 7
+        },
+        {
+          "generation": 7,
+          "episodes": 130,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 8,
+          "episodes": 117,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 9,
+          "episodes": 346,
+          "steps": 115,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 5
+        },
+        {
+          "generation": 10,
+          "episodes": 102,
+          "steps": 114,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 6
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T14:55:23.700932",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 82,
+      "worst_steps": 117,
+      "avg_steps": 106.0,
+      "avg_food_found": 3.6,
+      "avg_energy": 14.0,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 129,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 2,
+          "episodes": 169,
+          "steps": 82,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 38
+        },
+        {
+          "generation": 3,
+          "episodes": 179,
+          "steps": 115,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 5
+        },
+        {
+          "generation": 4,
+          "episodes": 130,
+          "steps": 117,
+          "traps_hit": 0,
+          "food_found": 2,
+          "energy_remaining": 3
+        },
+        {
+          "generation": 5,
+          "episodes": 161,
+          "steps": 103,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 17
+        },
+        {
+          "generation": 6,
+          "episodes": 162,
+          "steps": 112,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 7,
+          "episodes": 142,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 8,
+          "episodes": 122,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 9,
+          "episodes": 239,
+          "steps": 117,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 3
+        },
+        {
+          "generation": 10,
+          "episodes": 110,
+          "steps": 111,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 9
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-02T15:03:56.240660",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 87,
+      "worst_steps": 120,
+      "avg_steps": 104.4,
+      "avg_food_found": 4.5,
+      "avg_energy": 15.6,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 266,
+          "steps": 99,
+          "traps_hit": 0,
+          "food_found": 2,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 2,
+          "episodes": 353,
+          "steps": 116,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 4
+        },
+        {
+          "generation": 3,
+          "episodes": 250,
+          "steps": 87,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 33
+        },
+        {
+          "generation": 4,
+          "episodes": 194,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 5,
+          "episodes": 151,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 6,
+          "episodes": 323,
+          "steps": 98,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 7,
+          "episodes": 104,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 8,
+          "episodes": 122,
+          "steps": 96,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 24
+        },
+        {
+          "generation": 9,
+          "episodes": 160,
+          "steps": 111,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 9
+        },
+        {
+          "generation": 10,
+          "episodes": 229,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 29
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T17:26:17.502597",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 91,
+      "worst_steps": 120,
+      "avg_steps": 104.1,
+      "avg_food_found": 4.0,
+      "avg_energy": 15.9,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 60,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 2,
+          "energy_remaining": 1
+        },
+        {
+          "generation": 2,
+          "episodes": 179,
+          "steps": 100,
+          "traps_hit": 0,
+          "food_found": 2,
+          "energy_remaining": 20
+        },
+        {
+          "generation": 3,
+          "episodes": 396,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 29
+        },
+        {
+          "generation": 4,
+          "episodes": 384,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 5,
+          "episodes": 166,
+          "steps": 96,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 24
+        },
+        {
+          "generation": 6,
+          "episodes": 139,
+          "steps": 96,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 24
+        },
+        {
+          "generation": 7,
+          "episodes": 351,
+          "steps": 102,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 18
+        },
+        {
+          "generation": 8,
+          "episodes": 426,
+          "steps": 103,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 17
+        },
+        {
+          "generation": 9,
+          "episodes": 306,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 10,
+          "episodes": 184,
+          "steps": 109,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T17:52:11.334821",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 83,
+      "worst_steps": 118,
+      "avg_steps": 103.2,
+      "avg_food_found": 4.7,
+      "avg_energy": 17.1,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 312,
+          "steps": 112,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 2,
+          "episodes": 198,
+          "steps": 95,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 25
+        },
+        {
+          "generation": 3,
+          "episodes": 145,
+          "steps": 118,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 2
+        },
+        {
+          "generation": 4,
+          "episodes": 167,
+          "steps": 83,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 37
+        },
+        {
+          "generation": 5,
+          "episodes": 203,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 6,
+          "episodes": 178,
+          "steps": 99,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 7,
+          "episodes": 234,
+          "steps": 107,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 13
+        },
+        {
+          "generation": 8,
+          "episodes": 156,
+          "steps": 110,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 10
+        },
+        {
+          "generation": 9,
+          "episodes": 221,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 10,
+          "episodes": 143,
+          "steps": 100,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 23
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T18:14:39.881042",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 85,
+      "worst_steps": 119,
+      "avg_steps": 101.8,
+      "avg_food_found": 4.6,
+      "avg_energy": 19.4,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 441,
+          "steps": 103,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 17
+        },
+        {
+          "generation": 2,
+          "episodes": 163,
+          "steps": 119,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 1
+        },
+        {
+          "generation": 3,
+          "episodes": 211,
+          "steps": 88,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 32
+        },
+        {
+          "generation": 4,
+          "episodes": 98,
+          "steps": 105,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 15
+        },
+        {
+          "generation": 5,
+          "episodes": 174,
+          "steps": 85,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 35
+        },
+        {
+          "generation": 6,
+          "episodes": 287,
+          "steps": 112,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 7,
+          "episodes": 155,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 8,
+          "episodes": 193,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 9,
+          "episodes": 312,
+          "steps": 98,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 10,
+          "episodes": 148,
+          "steps": 107,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T18:41:05.229314",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 86,
+      "worst_steps": 120,
+      "avg_steps": 104.9,
+      "avg_food_found": 4.8,
+      "avg_energy": 15.3,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 278,
+          "steps": 116,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 4
+        },
+        {
+          "generation": 2,
+          "episodes": 344,
+          "steps": 86,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 34
+        },
+        {
+          "generation": 3,
+          "episodes": 122,
+          "steps": 108,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 12
+        },
+        {
+          "generation": 4,
+          "episodes": 189,
+          "steps": 120,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 0
+        },
+        {
+          "generation": 5,
+          "episodes": 211,
+          "steps": 103,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 17
+        },
+        {
+          "generation": 6,
+          "episodes": 167,
+          "steps": 98,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 22
+        },
+        {
+          "generation": 7,
+          "episodes": 298,
+          "steps": 112,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 8
+        },
+        {
+          "generation": 8,
+          "episodes": 134,
+          "steps": 93,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 27
+        },
+        {
+          "generation": 9,
+          "episodes": 241,
+          "steps": 109,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        },
+        {
+          "generation": 10,
+          "episodes": 176,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 16
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-04T19:02:48.667193",
+      "version": "Version 3",
+      "num_organisms": 10,
+      "num_successes": 10,
+      "best_steps": 84,
+      "worst_steps": 118,
+      "avg_steps": 102.6,
+      "avg_food_found": 4.7,
+      "avg_energy": 18.2,
+      "per_generation": [
+        {
+          "generation": 1,
+          "episodes": 195,
+          "steps": 108,
+          "traps_hit": 0,
+          "food_found": 3,
+          "energy_remaining": 12
+        },
+        {
+          "generation": 2,
+          "episodes": 267,
+          "steps": 118,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 2
+        },
+        {
+          "generation": 3,
+          "episodes": 138,
+          "steps": 84,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 36
+        },
+        {
+          "generation": 4,
+          "episodes": 223,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 14
+        },
+        {
+          "generation": 5,
+          "episodes": 144,
+          "steps": 91,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 29
+        },
+        {
+          "generation": 6,
+          "episodes": 318,
+          "steps": 113,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 7
+        },
+        {
+          "generation": 7,
+          "episodes": 187,
+          "steps": 97,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 23
+        },
+        {
+          "generation": 8,
+          "episodes": 209,
+          "steps": 104,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 16
+        },
+        {
+          "generation": 9,
+          "episodes": 163,
+          "steps": 99,
+          "traps_hit": 0,
+          "food_found": 4,
+          "energy_remaining": 21
+        },
+        {
+          "generation": 10,
+          "episodes": 132,
+          "steps": 106,
+          "traps_hit": 0,
+          "food_found": 5,
+          "energy_remaining": 11
+        }
+      ]
+    }
+  ]
+}
