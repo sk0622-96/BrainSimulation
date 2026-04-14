@@ -1,0 +1,7104 @@
+{
+  "runs": [
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-03-17T13:27:13.843324",
+      "total_organisms": 168,
+      "total_successes": 10,
+      "success_rate": 0.05952380952380952,
+      "best_steps": 92,
+      "worst_steps": 98,
+      "average_steps": 95.9,
+      "final_food_inherited": 0,
+      "average_energy": 4.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 136,
+          "attempts": 136,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 2,
+          "organism_num": 137,
+          "attempts": 1,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 138,
+          "attempts": 1,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 4,
+          "organism_num": 143,
+          "attempts": 5,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 145,
+          "attempts": 2,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 6,
+          "organism_num": 147,
+          "attempts": 2,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 7,
+          "organism_num": 150,
+          "attempts": 3,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 8,
+          "organism_num": 155,
+          "attempts": 5,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 159,
+          "attempts": 4,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 10,
+          "organism_num": 168,
+          "attempts": 9,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-03-17T13:31:42.225634",
+      "total_organisms": 228,
+      "total_successes": 10,
+      "success_rate": 0.043859649122807015,
+      "best_steps": 87,
+      "worst_steps": 100,
+      "average_steps": 92.0,
+      "final_food_inherited": 1,
+      "average_energy": 14.2,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 180,
+          "attempts": 180,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 2,
+          "organism_num": 182,
+          "attempts": 2,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 189,
+          "attempts": 7,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 4,
+          "organism_num": 203,
+          "attempts": 14,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 5,
+          "organism_num": 211,
+          "attempts": 8,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 6,
+          "organism_num": 214,
+          "attempts": 3,
+          "steps": 91,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 7,
+          "organism_num": 218,
+          "attempts": 4,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 8,
+          "organism_num": 223,
+          "attempts": 5,
+          "steps": 91,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 41
+        },
+        {
+          "success_num": 9,
+          "organism_num": 227,
+          "attempts": 4,
+          "steps": 87,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 10,
+          "organism_num": 228,
+          "attempts": 1,
+          "steps": 90,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-03-23T13:54:37.619056",
+      "total_organisms": 159,
+      "total_successes": 10,
+      "success_rate": 0.06289308176100629,
+      "best_steps": 93,
+      "worst_steps": 114,
+      "average_steps": 97.5,
+      "final_food_inherited": 1,
+      "average_energy": 5.7,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 118,
+          "attempts": 118,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 2,
+          "organism_num": 123,
+          "attempts": 5,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 136,
+          "attempts": 13,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 4,
+          "organism_num": 140,
+          "attempts": 4,
+          "steps": 114,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 5,
+          "organism_num": 143,
+          "attempts": 3,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 6,
+          "organism_num": 151,
+          "attempts": 8,
+          "steps": 100,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 7,
+          "organism_num": 152,
+          "attempts": 1,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 8,
+          "organism_num": 154,
+          "attempts": 2,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 9,
+          "organism_num": 156,
+          "attempts": 2,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 10,
+          "organism_num": 159,
+          "attempts": 3,
+          "steps": 93,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-03-23T15:59:11.519432",
+      "total_organisms": 295,
+      "total_successes": 10,
+      "success_rate": 0.03389830508474576,
+      "best_steps": 99,
+      "worst_steps": 131,
+      "average_steps": 102.9,
+      "final_food_inherited": 0,
+      "average_energy": 0.3,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 258,
+          "attempts": 258,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 2,
+          "organism_num": 261,
+          "attempts": 3,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 3,
+          "organism_num": 263,
+          "attempts": 2,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 4,
+          "organism_num": 266,
+          "attempts": 3,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 5,
+          "organism_num": 268,
+          "attempts": 2,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 6,
+          "organism_num": 271,
+          "attempts": 3,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 7,
+          "organism_num": 273,
+          "attempts": 2,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 8,
+          "organism_num": 289,
+          "attempts": 16,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 294,
+          "attempts": 5,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 10,
+          "organism_num": 295,
+          "attempts": 1,
+          "steps": 131,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-03-23T16:11:12.499444",
+      "total_organisms": 372,
+      "total_successes": 10,
+      "success_rate": 0.026881720430107527,
+      "best_steps": 92,
+      "worst_steps": 138,
+      "average_steps": 108.2,
+      "final_food_inherited": 2,
+      "average_energy": 18.4,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 303,
+          "attempts": 303,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 2,
+          "organism_num": 304,
+          "attempts": 1,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 306,
+          "attempts": 2,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 40
+        },
+        {
+          "success_num": 4,
+          "organism_num": 314,
+          "attempts": 8,
+          "steps": 123,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 5,
+          "organism_num": 322,
+          "attempts": 8,
+          "steps": 93,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 6,
+          "organism_num": 336,
+          "attempts": 14,
+          "steps": 135,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 7,
+          "organism_num": 339,
+          "attempts": 3,
+          "steps": 99,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 41
+        },
+        {
+          "success_num": 8,
+          "organism_num": 344,
+          "attempts": 5,
+          "steps": 138,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 371,
+          "attempts": 27,
+          "steps": 107,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 33
+        },
+        {
+          "success_num": 10,
+          "organism_num": 372,
+          "attempts": 1,
+          "steps": 104,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-02T09:55:28.265893",
+      "total_organisms": 174,
+      "total_successes": 10,
+      "success_rate": 0.05747126436781609,
+      "best_steps": 82,
+      "worst_steps": 99,
+      "average_steps": 92.9,
+      "final_food_inherited": 1,
+      "average_energy": 17.5,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 151,
+          "attempts": 151,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 2,
+          "organism_num": 153,
+          "attempts": 2,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 158,
+          "attempts": 5,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 4,
+          "organism_num": 159,
+          "attempts": 1,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 5,
+          "organism_num": 160,
+          "attempts": 1,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 6,
+          "organism_num": 161,
+          "attempts": 1,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 7,
+          "organism_num": 162,
+          "attempts": 1,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 8,
+          "organism_num": 163,
+          "attempts": 1,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 9,
+          "organism_num": 170,
+          "attempts": 7,
+          "steps": 82,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 50
+        },
+        {
+          "success_num": 10,
+          "organism_num": 174,
+          "attempts": 4,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 73
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T10:37:15.977547",
+      "total_organisms": 710,
+      "total_successes": 10,
+      "success_rate": 0.014084507042253521,
+      "best_steps": 87,
+      "worst_steps": 158,
+      "average_steps": 116.6,
+      "final_food_inherited": 3,
+      "average_energy": 15.8,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 140,
+          "attempts": 140,
+          "steps": 101,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 33
+        },
+        {
+          "success_num": 2,
+          "organism_num": 302,
+          "attempts": 162,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 3,
+          "organism_num": 303,
+          "attempts": 1,
+          "steps": 124,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 4,
+          "organism_num": 325,
+          "attempts": 22,
+          "steps": 117,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 5,
+          "organism_num": 370,
+          "attempts": 45,
+          "steps": 121,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 6,
+          "organism_num": 400,
+          "attempts": 30,
+          "steps": 124,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 7,
+          "organism_num": 445,
+          "attempts": 45,
+          "steps": 115,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 8,
+          "organism_num": 673,
+          "attempts": 228,
+          "steps": 87,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 9,
+          "organism_num": 680,
+          "attempts": 7,
+          "steps": 121,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 10,
+          "organism_num": 710,
+          "attempts": 30,
+          "steps": 158,
+          "food_inherited": 3,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T10:40:08.942572",
+      "total_organisms": 878,
+      "total_successes": 10,
+      "success_rate": 0.011389521640091117,
+      "best_steps": 96,
+      "worst_steps": 137,
+      "average_steps": 120.7,
+      "final_food_inherited": 4,
+      "average_energy": 12.3,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 180,
+          "attempts": 180,
+          "steps": 117,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 2,
+          "organism_num": 301,
+          "attempts": 121,
+          "steps": 119,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 3,
+          "organism_num": 378,
+          "attempts": 77,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 36
+        },
+        {
+          "success_num": 4,
+          "organism_num": 436,
+          "attempts": 58,
+          "steps": 128,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 5,
+          "organism_num": 479,
+          "attempts": 43,
+          "steps": 137,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 6,
+          "organism_num": 525,
+          "attempts": 46,
+          "steps": 122,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 7,
+          "organism_num": 611,
+          "attempts": 86,
+          "steps": 134,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 8,
+          "organism_num": 644,
+          "attempts": 33,
+          "steps": 129,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 9,
+          "organism_num": 751,
+          "attempts": 107,
+          "steps": 127,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 10,
+          "organism_num": 878,
+          "attempts": 127,
+          "steps": 96,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T10:45:50.137452",
+      "total_organisms": 1087,
+      "total_successes": 10,
+      "success_rate": 0.00919963201471941,
+      "best_steps": 78,
+      "worst_steps": 125,
+      "average_steps": 97.7,
+      "final_food_inherited": 2,
+      "average_energy": 7.9,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 148,
+          "attempts": 148,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 2,
+          "organism_num": 272,
+          "attempts": 124,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 3,
+          "organism_num": 419,
+          "attempts": 147,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 1,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 4,
+          "organism_num": 528,
+          "attempts": 109,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 5,
+          "organism_num": 598,
+          "attempts": 70,
+          "steps": 125,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 6,
+          "organism_num": 773,
+          "attempts": 175,
+          "steps": 78,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 7,
+          "organism_num": 822,
+          "attempts": 49,
+          "steps": 123,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 8,
+          "organism_num": 885,
+          "attempts": 63,
+          "steps": 99,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 905,
+          "attempts": 20,
+          "steps": 95,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1087,
+          "attempts": 182,
+          "steps": 84,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T10:48:04.680641",
+      "total_organisms": 684,
+      "total_successes": 10,
+      "success_rate": 0.014619883040935672,
+      "best_steps": 85,
+      "worst_steps": 133,
+      "average_steps": 110.1,
+      "final_food_inherited": 5,
+      "average_energy": 18.3,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 145,
+          "attempts": 145,
+          "steps": 118,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 2,
+          "organism_num": 252,
+          "attempts": 107,
+          "steps": 90,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 3,
+          "organism_num": 303,
+          "attempts": 51,
+          "steps": 111,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 4,
+          "organism_num": 427,
+          "attempts": 124,
+          "steps": 85,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 5,
+          "organism_num": 534,
+          "attempts": 107,
+          "steps": 86,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 6,
+          "organism_num": 588,
+          "attempts": 54,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 33
+        },
+        {
+          "success_num": 7,
+          "organism_num": 595,
+          "attempts": 7,
+          "steps": 117,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 8,
+          "organism_num": 598,
+          "attempts": 3,
+          "steps": 129,
+          "food_inherited": 4,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 9,
+          "organism_num": 667,
+          "attempts": 69,
+          "steps": 103,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 37
+        },
+        {
+          "success_num": 10,
+          "organism_num": 684,
+          "attempts": 17,
+          "steps": 129,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T10:51:12.374101",
+      "total_organisms": 1077,
+      "total_successes": 10,
+      "success_rate": 0.009285051067780872,
+      "best_steps": 84,
+      "worst_steps": 170,
+      "average_steps": 113.0,
+      "final_food_inherited": 2,
+      "average_energy": 12.0,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 188,
+          "attempts": 188,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 32
+        },
+        {
+          "success_num": 2,
+          "organism_num": 216,
+          "attempts": 28,
+          "steps": 116,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 3,
+          "organism_num": 327,
+          "attempts": 111,
+          "steps": 94,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 4,
+          "organism_num": 373,
+          "attempts": 46,
+          "steps": 125,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 5,
+          "organism_num": 410,
+          "attempts": 37,
+          "steps": 136,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 6,
+          "organism_num": 536,
+          "attempts": 126,
+          "steps": 93,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 7,
+          "organism_num": 540,
+          "attempts": 4,
+          "steps": 130,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 701,
+          "attempts": 161,
+          "steps": 92,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 9,
+          "organism_num": 854,
+          "attempts": 153,
+          "steps": 84,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1077,
+          "attempts": 223,
+          "steps": 170,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T15:01:51.476042",
+      "total_organisms": 990,
+      "total_successes": 10,
+      "success_rate": 0.010101010101010102,
+      "best_steps": 90,
+      "worst_steps": 127,
+      "average_steps": 107.7,
+      "final_food_inherited": 3,
+      "average_energy": 17.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 147,
+          "attempts": 147,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 2,
+          "organism_num": 239,
+          "attempts": 92,
+          "steps": 127,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 282,
+          "attempts": 43,
+          "steps": 100,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 32
+        },
+        {
+          "success_num": 4,
+          "organism_num": 303,
+          "attempts": 21,
+          "steps": 124,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 5,
+          "organism_num": 374,
+          "attempts": 71,
+          "steps": 100,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 6,
+          "organism_num": 454,
+          "attempts": 80,
+          "steps": 95,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 7,
+          "organism_num": 750,
+          "attempts": 296,
+          "steps": 90,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 896,
+          "attempts": 146,
+          "steps": 105,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 9,
+          "organism_num": 917,
+          "attempts": 21,
+          "steps": 127,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 10,
+          "organism_num": 990,
+          "attempts": 73,
+          "steps": 116,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T15:05:44.491793",
+      "total_organisms": 1301,
+      "total_successes": 10,
+      "success_rate": 0.007686395080707148,
+      "best_steps": 96,
+      "worst_steps": 143,
+      "average_steps": 118.2,
+      "final_food_inherited": 5,
+      "average_energy": 20.2,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 184,
+          "attempts": 184,
+          "steps": 126,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 2,
+          "organism_num": 226,
+          "attempts": 42,
+          "steps": 114,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 3,
+          "organism_num": 452,
+          "attempts": 226,
+          "steps": 96,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 4,
+          "organism_num": 507,
+          "attempts": 55,
+          "steps": 124,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 1,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 5,
+          "organism_num": 562,
+          "attempts": 55,
+          "steps": 122,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 1,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 624,
+          "attempts": 62,
+          "steps": 140,
+          "food_inherited": 4,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 32
+        },
+        {
+          "success_num": 7,
+          "organism_num": 727,
+          "attempts": 103,
+          "steps": 143,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 37
+        },
+        {
+          "success_num": 8,
+          "organism_num": 801,
+          "attempts": 74,
+          "steps": 113,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 9,
+          "organism_num": 980,
+          "attempts": 179,
+          "steps": 96,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 44
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1301,
+          "attempts": 321,
+          "steps": 108,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 32
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T15:14:43.806831",
+      "total_organisms": 845,
+      "total_successes": 10,
+      "success_rate": 0.011834319526627219,
+      "best_steps": 93,
+      "worst_steps": 140,
+      "average_steps": 118.5,
+      "final_food_inherited": 3,
+      "average_energy": 12.3,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 244,
+          "attempts": 244,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 2,
+          "organism_num": 251,
+          "attempts": 7,
+          "steps": 117,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 279,
+          "attempts": 28,
+          "steps": 111,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 4,
+          "organism_num": 299,
+          "attempts": 20,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 5,
+          "organism_num": 383,
+          "attempts": 84,
+          "steps": 105,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 6,
+          "organism_num": 410,
+          "attempts": 27,
+          "steps": 138,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 7,
+          "organism_num": 489,
+          "attempts": 79,
+          "steps": 93,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 47
+        },
+        {
+          "success_num": 8,
+          "organism_num": 562,
+          "attempts": 73,
+          "steps": 118,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 9,
+          "organism_num": 830,
+          "attempts": 268,
+          "steps": 129,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 10,
+          "organism_num": 845,
+          "attempts": 15,
+          "steps": 140,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T15:18:27.956704",
+      "total_organisms": 1243,
+      "total_successes": 10,
+      "success_rate": 0.008045052292839904,
+      "best_steps": 94,
+      "worst_steps": 136,
+      "average_steps": 111.1,
+      "final_food_inherited": 4,
+      "average_energy": 18.9,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 335,
+          "attempts": 335,
+          "steps": 108,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 2,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 2,
+          "organism_num": 415,
+          "attempts": 80,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 3,
+          "organism_num": 460,
+          "attempts": 45,
+          "steps": 120,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 4,
+          "organism_num": 501,
+          "attempts": 41,
+          "steps": 130,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 5,
+          "organism_num": 505,
+          "attempts": 4,
+          "steps": 136,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 6,
+          "organism_num": 831,
+          "attempts": 326,
+          "steps": 98,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 34
+        },
+        {
+          "success_num": 7,
+          "organism_num": 879,
+          "attempts": 48,
+          "steps": 100,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 8,
+          "organism_num": 968,
+          "attempts": 89,
+          "steps": 106,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1097,
+          "attempts": 129,
+          "steps": 94,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 46
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1243,
+          "attempts": 146,
+          "steps": 120,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-06T15:19:54.216399",
+      "total_organisms": 329,
+      "total_successes": 10,
+      "success_rate": 0.030395136778115502,
+      "best_steps": 98,
+      "worst_steps": 134,
+      "average_steps": 120.7,
+      "final_food_inherited": 2,
+      "average_energy": 16.9,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 74,
+          "attempts": 74,
+          "steps": 103,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 2,
+          "organism_num": 112,
+          "attempts": 38,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 34
+        },
+        {
+          "success_num": 3,
+          "organism_num": 143,
+          "attempts": 31,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 4,
+          "organism_num": 150,
+          "attempts": 7,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 173,
+          "attempts": 23,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 6,
+          "organism_num": 195,
+          "attempts": 22,
+          "steps": 131,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 7,
+          "organism_num": 221,
+          "attempts": 26,
+          "steps": 113,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 8,
+          "organism_num": 279,
+          "attempts": 58,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 9,
+          "organism_num": 319,
+          "attempts": 40,
+          "steps": 111,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 10,
+          "organism_num": 329,
+          "attempts": 10,
+          "steps": 116,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-06T15:21:22.002376",
+      "total_organisms": 222,
+      "total_successes": 10,
+      "success_rate": 0.04504504504504504,
+      "best_steps": 94,
+      "worst_steps": 127,
+      "average_steps": 99.2,
+      "final_food_inherited": 1,
+      "average_energy": 12.0,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 191,
+          "attempts": 191,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 2,
+          "organism_num": 205,
+          "attempts": 14,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 3,
+          "organism_num": 206,
+          "attempts": 1,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 45
+        },
+        {
+          "success_num": 4,
+          "organism_num": 209,
+          "attempts": 3,
+          "steps": 94,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 212,
+          "attempts": 3,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 6,
+          "organism_num": 214,
+          "attempts": 2,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 7,
+          "organism_num": 215,
+          "attempts": 1,
+          "steps": 127,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 8,
+          "organism_num": 217,
+          "attempts": 2,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 9,
+          "organism_num": 220,
+          "attempts": 3,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 10,
+          "organism_num": 222,
+          "attempts": 2,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-06T15:22:20.634552",
+      "total_organisms": 192,
+      "total_successes": 10,
+      "success_rate": 0.052083333333333336,
+      "best_steps": 96,
+      "worst_steps": 99,
+      "average_steps": 97.9,
+      "final_food_inherited": 0,
+      "average_energy": 2.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 170,
+          "attempts": 170,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 2,
+          "organism_num": 172,
+          "attempts": 2,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 3,
+          "organism_num": 174,
+          "attempts": 2,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 4,
+          "organism_num": 175,
+          "attempts": 1,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 177,
+          "attempts": 2,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 181,
+          "attempts": 4,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 7,
+          "organism_num": 182,
+          "attempts": 1,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 8,
+          "organism_num": 184,
+          "attempts": 2,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 186,
+          "attempts": 2,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 10,
+          "organism_num": 192,
+          "attempts": 6,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-06T15:23:16.480935",
+      "total_organisms": 175,
+      "total_successes": 10,
+      "success_rate": 0.05714285714285714,
+      "best_steps": 96,
+      "worst_steps": 129,
+      "average_steps": 100.7,
+      "final_food_inherited": 1,
+      "average_energy": 2.5,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 103,
+          "attempts": 103,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 2,
+          "organism_num": 104,
+          "attempts": 1,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 3,
+          "organism_num": 108,
+          "attempts": 4,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 4,
+          "organism_num": 125,
+          "attempts": 17,
+          "steps": 129,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 5,
+          "organism_num": 135,
+          "attempts": 10,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 6,
+          "organism_num": 139,
+          "attempts": 4,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 7,
+          "organism_num": 154,
+          "attempts": 15,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 8,
+          "organism_num": 156,
+          "attempts": 2,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 171,
+          "attempts": 15,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 10,
+          "organism_num": 175,
+          "attempts": 4,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-06T15:27:40.056371",
+      "total_organisms": 1445,
+      "total_successes": 10,
+      "success_rate": 0.006920415224913495,
+      "best_steps": 80,
+      "worst_steps": 115,
+      "average_steps": 96.7,
+      "final_food_inherited": 2,
+      "average_energy": 25.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 173,
+          "attempts": 173,
+          "steps": 87,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 2,
+          "organism_num": 290,
+          "attempts": 117,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 38
+        },
+        {
+          "success_num": 3,
+          "organism_num": 479,
+          "attempts": 189,
+          "steps": 80,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 4,
+          "organism_num": 535,
+          "attempts": 56,
+          "steps": 105,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 5,
+          "organism_num": 659,
+          "attempts": 124,
+          "steps": 101,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 39
+        },
+        {
+          "success_num": 6,
+          "organism_num": 771,
+          "attempts": 112,
+          "steps": 97,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 43
+        },
+        {
+          "success_num": 7,
+          "organism_num": 993,
+          "attempts": 222,
+          "steps": 91,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1124,
+          "attempts": 131,
+          "steps": 98,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1360,
+          "attempts": 236,
+          "steps": 99,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 41
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1445,
+          "attempts": 85,
+          "steps": 115,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T15:38:00.423321",
+      "total_organisms": 826,
+      "total_successes": 10,
+      "success_rate": 0.012106537530266344,
+      "best_steps": 83,
+      "worst_steps": 140,
+      "average_steps": 115.3,
+      "final_food_inherited": 4,
+      "average_energy": 8.0,
+      "total_wm_truncations": 31,
+      "total_words_dropped": 326,
+      "total_communications": 66,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 288,
+          "attempts": 288,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 2,
+          "organism_num": 306,
+          "attempts": 18,
+          "steps": 120,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 3,
+          "organism_num": 345,
+          "attempts": 39,
+          "steps": 120,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 4,
+          "organism_num": 471,
+          "attempts": 126,
+          "steps": 115,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 5,
+          "organism_num": 478,
+          "attempts": 7,
+          "steps": 120,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 6,
+          "organism_num": 488,
+          "attempts": 10,
+          "steps": 131,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 7,
+          "organism_num": 512,
+          "attempts": 24,
+          "steps": 140,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 8,
+          "organism_num": 647,
+          "attempts": 135,
+          "steps": 83,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 9,
+          "organism_num": 727,
+          "attempts": 80,
+          "steps": 132,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 10,
+          "organism_num": 826,
+          "attempts": 99,
+          "steps": 98,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T15:44:05.876221",
+      "total_organisms": 1019,
+      "total_successes": 10,
+      "success_rate": 0.009813542688910697,
+      "best_steps": 85,
+      "worst_steps": 138,
+      "average_steps": 112.2,
+      "final_food_inherited": 3,
+      "average_energy": 11.6,
+      "total_wm_truncations": 43,
+      "total_words_dropped": 430,
+      "total_communications": 90,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 165,
+          "attempts": 165,
+          "steps": 102,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 2,
+          "organism_num": 384,
+          "attempts": 219,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 3,
+          "organism_num": 476,
+          "attempts": 92,
+          "steps": 108,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 4,
+          "organism_num": 707,
+          "attempts": 231,
+          "steps": 91,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 5,
+          "organism_num": 918,
+          "attempts": 211,
+          "steps": 85,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 6,
+          "organism_num": 936,
+          "attempts": 18,
+          "steps": 130,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 7,
+          "organism_num": 956,
+          "attempts": 20,
+          "steps": 138,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 8,
+          "organism_num": 965,
+          "attempts": 9,
+          "steps": 118,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 2,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 990,
+          "attempts": 25,
+          "steps": 128,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1019,
+          "attempts": 29,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 15
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T15:50:33.211113",
+      "total_organisms": 781,
+      "total_successes": 10,
+      "success_rate": 0.012804097311139564,
+      "best_steps": 106,
+      "worst_steps": 167,
+      "average_steps": 132.9,
+      "final_food_inherited": 4,
+      "average_energy": 23.3,
+      "total_wm_truncations": 8,
+      "total_words_dropped": 88,
+      "total_communications": 31,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 22,
+          "attempts": 22,
+          "steps": 141,
+          "food_inherited": 0,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 2,
+          "organism_num": 118,
+          "attempts": 96,
+          "steps": 106,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 56
+        },
+        {
+          "success_num": 3,
+          "organism_num": 129,
+          "attempts": 11,
+          "steps": 144,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 4,
+          "organism_num": 167,
+          "attempts": 38,
+          "steps": 137,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 5,
+          "organism_num": 232,
+          "attempts": 65,
+          "steps": 116,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 6,
+          "organism_num": 322,
+          "attempts": 90,
+          "steps": 125,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 55
+        },
+        {
+          "success_num": 7,
+          "organism_num": 468,
+          "attempts": 146,
+          "steps": 167,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 8,
+          "organism_num": 535,
+          "attempts": 67,
+          "steps": 121,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 9,
+          "organism_num": 686,
+          "attempts": 151,
+          "steps": 133,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 10,
+          "organism_num": 781,
+          "attempts": 95,
+          "steps": 139,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:01:44.083436",
+      "total_organisms": 894,
+      "total_successes": 10,
+      "success_rate": 0.011185682326621925,
+      "best_steps": 90,
+      "worst_steps": 140,
+      "average_steps": 115.1,
+      "final_food_inherited": 5,
+      "average_energy": 17.3,
+      "total_wm_truncations": 35,
+      "total_words_dropped": 370,
+      "total_communications": 88,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 192,
+          "attempts": 192,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 2,
+          "organism_num": 269,
+          "attempts": 77,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 39
+        },
+        {
+          "success_num": 3,
+          "organism_num": 446,
+          "attempts": 177,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 4,
+          "organism_num": 536,
+          "attempts": 90,
+          "steps": 104,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 5,
+          "organism_num": 586,
+          "attempts": 50,
+          "steps": 132,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 628,
+          "attempts": 42,
+          "steps": 137,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 7,
+          "organism_num": 639,
+          "attempts": 11,
+          "steps": 140,
+          "food_inherited": 3,
+          "food_found": 5,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 8,
+          "organism_num": 682,
+          "attempts": 43,
+          "steps": 113,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 9,
+          "organism_num": 817,
+          "attempts": 135,
+          "steps": 126,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 10,
+          "organism_num": 894,
+          "attempts": 77,
+          "steps": 117,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 23
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:12:58.293417",
+      "total_organisms": 1059,
+      "total_successes": 10,
+      "success_rate": 0.009442870632672332,
+      "best_steps": 84,
+      "worst_steps": 127,
+      "average_steps": 107.7,
+      "final_food_inherited": 2,
+      "average_energy": 10.5,
+      "total_wm_truncations": 64,
+      "total_words_dropped": 698,
+      "total_communications": 154,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 130,
+          "attempts": 130,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 2,
+          "organism_num": 181,
+          "attempts": 51,
+          "steps": 122,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 3,
+          "organism_num": 317,
+          "attempts": 136,
+          "steps": 127,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 4,
+          "organism_num": 344,
+          "attempts": 27,
+          "steps": 121,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 5,
+          "organism_num": 350,
+          "attempts": 6,
+          "steps": 122,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 6,
+          "organism_num": 460,
+          "attempts": 110,
+          "steps": 92,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 7,
+          "organism_num": 518,
+          "attempts": 58,
+          "steps": 126,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 8,
+          "organism_num": 637,
+          "attempts": 119,
+          "steps": 97,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 9,
+          "organism_num": 855,
+          "attempts": 218,
+          "steps": 84,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1059,
+          "attempts": 204,
+          "steps": 87,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 9
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:17:04.461345",
+      "total_organisms": 1383,
+      "total_successes": 10,
+      "success_rate": 0.0072306579898770785,
+      "best_steps": 82,
+      "worst_steps": 125,
+      "average_steps": 98.5,
+      "final_food_inherited": 2,
+      "average_energy": 19.3,
+      "total_wm_truncations": 50,
+      "total_words_dropped": 553,
+      "total_communications": 124,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 292,
+          "attempts": 292,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 2,
+          "organism_num": 510,
+          "attempts": 218,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 3,
+          "organism_num": 657,
+          "attempts": 147,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 4,
+          "organism_num": 818,
+          "attempts": 161,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 848,
+          "attempts": 30,
+          "steps": 110,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 6,
+          "organism_num": 924,
+          "attempts": 76,
+          "steps": 82,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 50
+        },
+        {
+          "success_num": 7,
+          "organism_num": 1092,
+          "attempts": 168,
+          "steps": 97,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1167,
+          "attempts": 75,
+          "steps": 100,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 40
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1249,
+          "attempts": 82,
+          "steps": 105,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1383,
+          "attempts": 134,
+          "steps": 125,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:23:41.135432",
+      "total_organisms": 769,
+      "total_successes": 10,
+      "success_rate": 0.013003901170351105,
+      "best_steps": 86,
+      "worst_steps": 129,
+      "average_steps": 107.7,
+      "final_food_inherited": 4,
+      "average_energy": 32.5,
+      "total_wm_truncations": 40,
+      "total_words_dropped": 387,
+      "total_communications": 79,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 249,
+          "attempts": 249,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 2,
+          "organism_num": 291,
+          "attempts": 42,
+          "steps": 86,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 48
+        },
+        {
+          "success_num": 3,
+          "organism_num": 317,
+          "attempts": 26,
+          "steps": 104,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 4,
+          "organism_num": 348,
+          "attempts": 31,
+          "steps": 110,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 5,
+          "organism_num": 580,
+          "attempts": 232,
+          "steps": 98,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 42
+        },
+        {
+          "success_num": 6,
+          "organism_num": 631,
+          "attempts": 51,
+          "steps": 118,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 7,
+          "organism_num": 634,
+          "attempts": 3,
+          "steps": 111,
+          "food_inherited": 2,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 55
+        },
+        {
+          "success_num": 8,
+          "organism_num": 688,
+          "attempts": 54,
+          "steps": 129,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 9,
+          "organism_num": 736,
+          "attempts": 48,
+          "steps": 101,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 39
+        },
+        {
+          "success_num": 10,
+          "organism_num": 769,
+          "attempts": 33,
+          "steps": 125,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 55
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:35:33.111692",
+      "total_organisms": 1365,
+      "total_successes": 10,
+      "success_rate": 0.007326007326007326,
+      "best_steps": 93,
+      "worst_steps": 138,
+      "average_steps": 110.5,
+      "final_food_inherited": 2,
+      "average_energy": 11.1,
+      "total_wm_truncations": 56,
+      "total_words_dropped": 598,
+      "total_communications": 145,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 231,
+          "attempts": 231,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 2,
+          "organism_num": 325,
+          "attempts": 94,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 29
+        },
+        {
+          "success_num": 3,
+          "organism_num": 409,
+          "attempts": 84,
+          "steps": 118,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 4,
+          "organism_num": 496,
+          "attempts": 87,
+          "steps": 138,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 690,
+          "attempts": 194,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 715,
+          "attempts": 25,
+          "steps": 127,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 7,
+          "organism_num": 908,
+          "attempts": 193,
+          "steps": 93,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 8,
+          "organism_num": 949,
+          "attempts": 41,
+          "steps": 115,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1201,
+          "attempts": 252,
+          "steps": 94,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1365,
+          "attempts": 164,
+          "steps": 130,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 10
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:41:14.486220",
+      "total_organisms": 684,
+      "total_successes": 10,
+      "success_rate": 0.014619883040935672,
+      "best_steps": 86,
+      "worst_steps": 167,
+      "average_steps": 112.1,
+      "final_food_inherited": 3,
+      "average_energy": 16.7,
+      "total_wm_truncations": 23,
+      "total_words_dropped": 211,
+      "total_communications": 53,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 180,
+          "attempts": 180,
+          "steps": 86,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 2,
+          "organism_num": 274,
+          "attempts": 94,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 38
+        },
+        {
+          "success_num": 3,
+          "organism_num": 333,
+          "attempts": 59,
+          "steps": 119,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 4,
+          "organism_num": 359,
+          "attempts": 26,
+          "steps": 116,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 5,
+          "organism_num": 372,
+          "attempts": 13,
+          "steps": 120,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 6,
+          "organism_num": 385,
+          "attempts": 13,
+          "steps": 167,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 7,
+          "organism_num": 468,
+          "attempts": 83,
+          "steps": 86,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 8,
+          "organism_num": 556,
+          "attempts": 88,
+          "steps": 114,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 9,
+          "organism_num": 584,
+          "attempts": 28,
+          "steps": 122,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 10,
+          "organism_num": 684,
+          "attempts": 100,
+          "steps": 97,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-06T16:47:30.394465",
+      "total_organisms": 859,
+      "total_successes": 10,
+      "success_rate": 0.011641443538998836,
+      "best_steps": 86,
+      "worst_steps": 164,
+      "average_steps": 114.6,
+      "final_food_inherited": 2,
+      "average_energy": 15.0,
+      "total_wm_truncations": 30,
+      "total_words_dropped": 347,
+      "total_communications": 57,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 202,
+          "attempts": 202,
+          "steps": 86,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 2,
+          "organism_num": 422,
+          "attempts": 220,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 3,
+          "organism_num": 475,
+          "attempts": 53,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 4,
+          "organism_num": 538,
+          "attempts": 63,
+          "steps": 120,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 5,
+          "organism_num": 543,
+          "attempts": 5,
+          "steps": 125,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 6,
+          "organism_num": 625,
+          "attempts": 82,
+          "steps": 94,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 7,
+          "organism_num": 673,
+          "attempts": 48,
+          "steps": 135,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 8,
+          "organism_num": 794,
+          "attempts": 121,
+          "steps": 92,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 9,
+          "organism_num": 852,
+          "attempts": 58,
+          "steps": 137,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 10,
+          "organism_num": 859,
+          "attempts": 7,
+          "steps": 164,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:30:00.708774",
+      "total_organisms": 586,
+      "total_successes": 10,
+      "success_rate": 0.017064846416382253,
+      "best_steps": 125,
+      "worst_steps": 138,
+      "average_steps": 132.6,
+      "final_food_inherited": 2,
+      "average_energy": 10.0,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 66,
+          "attempts": 66,
+          "steps": 125,
+          "food_inherited": 0,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 2,
+          "organism_num": 67,
+          "attempts": 1,
+          "steps": 137,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 3,
+          "organism_num": 187,
+          "attempts": 120,
+          "steps": 138,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 4,
+          "organism_num": 326,
+          "attempts": 139,
+          "steps": 131,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 5,
+          "organism_num": 345,
+          "attempts": 19,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 6,
+          "organism_num": 380,
+          "attempts": 35,
+          "steps": 132,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 7,
+          "organism_num": 433,
+          "attempts": 53,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 8,
+          "organism_num": 438,
+          "attempts": 5,
+          "steps": 129,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 9,
+          "organism_num": 464,
+          "attempts": 26,
+          "steps": 134,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 10,
+          "organism_num": 586,
+          "attempts": 122,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:31:18.868666",
+      "total_organisms": 168,
+      "total_successes": 10,
+      "success_rate": 0.05952380952380952,
+      "best_steps": 94,
+      "worst_steps": 100,
+      "average_steps": 97.2,
+      "final_food_inherited": 0,
+      "average_energy": 2.8,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 133,
+          "attempts": 133,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 2,
+          "organism_num": 140,
+          "attempts": 7,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 3,
+          "organism_num": 149,
+          "attempts": 9,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 4,
+          "organism_num": 157,
+          "attempts": 8,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 5,
+          "organism_num": 158,
+          "attempts": 1,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 163,
+          "attempts": 5,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 7,
+          "organism_num": 164,
+          "attempts": 1,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 8,
+          "organism_num": 166,
+          "attempts": 2,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 167,
+          "attempts": 1,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 10,
+          "organism_num": 168,
+          "attempts": 1,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:32:21.004504",
+      "total_organisms": 268,
+      "total_successes": 10,
+      "success_rate": 0.03731343283582089,
+      "best_steps": 88,
+      "worst_steps": 99,
+      "average_steps": 90.9,
+      "final_food_inherited": 0,
+      "average_energy": 9.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 254,
+          "attempts": 254,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 2,
+          "organism_num": 255,
+          "attempts": 1,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 3,
+          "organism_num": 257,
+          "attempts": 2,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 4,
+          "organism_num": 258,
+          "attempts": 1,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 5,
+          "organism_num": 259,
+          "attempts": 1,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 6,
+          "organism_num": 264,
+          "attempts": 5,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 7,
+          "organism_num": 265,
+          "attempts": 1,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 8,
+          "organism_num": 266,
+          "attempts": 1,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 9,
+          "organism_num": 267,
+          "attempts": 1,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 10,
+          "organism_num": 268,
+          "attempts": 1,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:34:19.631265",
+      "total_organisms": 421,
+      "total_successes": 10,
+      "success_rate": 0.023752969121140142,
+      "best_steps": 129,
+      "worst_steps": 172,
+      "average_steps": 143.3,
+      "final_food_inherited": 5,
+      "average_energy": 15.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 31,
+          "attempts": 31,
+          "steps": 135,
+          "food_inherited": 0,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 2,
+          "organism_num": 34,
+          "attempts": 3,
+          "steps": 129,
+          "food_inherited": 2,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 37
+        },
+        {
+          "success_num": 3,
+          "organism_num": 46,
+          "attempts": 12,
+          "steps": 147,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 1,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 4,
+          "organism_num": 117,
+          "attempts": 71,
+          "steps": 140,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 5,
+          "organism_num": 162,
+          "attempts": 45,
+          "steps": 140,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 6,
+          "organism_num": 177,
+          "attempts": 15,
+          "steps": 132,
+          "food_inherited": 4,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 7,
+          "organism_num": 299,
+          "attempts": 122,
+          "steps": 138,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 8,
+          "organism_num": 318,
+          "attempts": 19,
+          "steps": 172,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 9,
+          "organism_num": 390,
+          "attempts": 72,
+          "steps": 146,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 34
+        },
+        {
+          "success_num": 10,
+          "organism_num": 421,
+          "attempts": 31,
+          "steps": 154,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 1,
+          "energy_remaining": 16
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:40:25.375487",
+      "total_organisms": 192,
+      "total_successes": 10,
+      "success_rate": 0.052083333333333336,
+      "best_steps": 98,
+      "worst_steps": 106,
+      "average_steps": 99.5,
+      "final_food_inherited": 1,
+      "average_energy": 2.7,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 146,
+          "attempts": 146,
+          "steps": 100,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 2,
+          "organism_num": 155,
+          "attempts": 9,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 3,
+          "organism_num": 158,
+          "attempts": 3,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 4,
+          "organism_num": 162,
+          "attempts": 4,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 5,
+          "organism_num": 166,
+          "attempts": 4,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 6,
+          "organism_num": 167,
+          "attempts": 1,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 7,
+          "organism_num": 172,
+          "attempts": 5,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 8,
+          "organism_num": 177,
+          "attempts": 5,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 9,
+          "organism_num": 189,
+          "attempts": 12,
+          "steps": 106,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 10,
+          "organism_num": 192,
+          "attempts": 3,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:41:00.605682",
+      "total_organisms": 135,
+      "total_successes": 10,
+      "success_rate": 0.07407407407407407,
+      "best_steps": 89,
+      "worst_steps": 98,
+      "average_steps": 92.3,
+      "final_food_inherited": 0,
+      "average_energy": 7.7,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 121,
+          "attempts": 121,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 2,
+          "organism_num": 122,
+          "attempts": 1,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 123,
+          "attempts": 1,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 4,
+          "organism_num": 124,
+          "attempts": 1,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 125,
+          "attempts": 1,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 6,
+          "organism_num": 126,
+          "attempts": 1,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 7,
+          "organism_num": 131,
+          "attempts": 5,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 133,
+          "attempts": 2,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 9,
+          "organism_num": 134,
+          "attempts": 1,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 10,
+          "organism_num": 135,
+          "attempts": 1,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:43:18.419285",
+      "total_organisms": 756,
+      "total_successes": 10,
+      "success_rate": 0.013227513227513227,
+      "best_steps": 125,
+      "worst_steps": 167,
+      "average_steps": 131.7,
+      "final_food_inherited": 3,
+      "average_energy": 14.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 291,
+          "attempts": 291,
+          "steps": 127,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 2,
+          "organism_num": 315,
+          "attempts": 24,
+          "steps": 128,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 3,
+          "organism_num": 569,
+          "attempts": 254,
+          "steps": 126,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 48
+        },
+        {
+          "success_num": 4,
+          "organism_num": 630,
+          "attempts": 61,
+          "steps": 134,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 634,
+          "attempts": 4,
+          "steps": 130,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 6,
+          "organism_num": 693,
+          "attempts": 59,
+          "steps": 167,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 7,
+          "organism_num": 721,
+          "attempts": 28,
+          "steps": 128,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 8,
+          "organism_num": 752,
+          "attempts": 31,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 9,
+          "organism_num": 753,
+          "attempts": 1,
+          "steps": 127,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 10,
+          "organism_num": 756,
+          "attempts": 3,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:44:32.110315",
+      "total_organisms": 325,
+      "total_successes": 10,
+      "success_rate": 0.03076923076923077,
+      "best_steps": 88,
+      "worst_steps": 99,
+      "average_steps": 94.5,
+      "final_food_inherited": 1,
+      "average_energy": 8.7,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 141,
+          "attempts": 141,
+          "steps": 88,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 2,
+          "organism_num": 161,
+          "attempts": 20,
+          "steps": 94,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 3,
+          "organism_num": 176,
+          "attempts": 15,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 4,
+          "organism_num": 207,
+          "attempts": 31,
+          "steps": 93,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 5,
+          "organism_num": 216,
+          "attempts": 9,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 235,
+          "attempts": 19,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 7,
+          "organism_num": 274,
+          "attempts": 39,
+          "steps": 90,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 310,
+          "attempts": 36,
+          "steps": 92,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 9,
+          "organism_num": 321,
+          "attempts": 11,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 10,
+          "organism_num": 325,
+          "attempts": 4,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:45:54.883204",
+      "total_organisms": 303,
+      "total_successes": 10,
+      "success_rate": 0.033003300330033,
+      "best_steps": 82,
+      "worst_steps": 99,
+      "average_steps": 88.4,
+      "final_food_inherited": 1,
+      "average_energy": 12.8,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 168,
+          "attempts": 168,
+          "steps": 83,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 17
+        },
+        {
+          "success_num": 2,
+          "organism_num": 169,
+          "attempts": 1,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 3,
+          "organism_num": 178,
+          "attempts": 9,
+          "steps": 87,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 4,
+          "organism_num": 180,
+          "attempts": 2,
+          "steps": 84,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 1,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 181,
+          "attempts": 1,
+          "steps": 84,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 1,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 6,
+          "organism_num": 183,
+          "attempts": 2,
+          "steps": 83,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 17
+        },
+        {
+          "success_num": 7,
+          "organism_num": 184,
+          "attempts": 1,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 8,
+          "organism_num": 185,
+          "attempts": 1,
+          "steps": 82,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 9,
+          "organism_num": 272,
+          "attempts": 87,
+          "steps": 93,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 10,
+          "organism_num": 303,
+          "attempts": 31,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Perfect LTM",
+      "timestamp": "2026-04-09T09:48:16.634433",
+      "total_organisms": 455,
+      "total_successes": 10,
+      "success_rate": 0.02197802197802198,
+      "best_steps": 129,
+      "worst_steps": 159,
+      "average_steps": 141.0,
+      "final_food_inherited": 4,
+      "average_energy": 20.2,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 118,
+          "attempts": 118,
+          "steps": 129,
+          "food_inherited": 0,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 37
+        },
+        {
+          "success_num": 2,
+          "organism_num": 240,
+          "attempts": 122,
+          "steps": 156,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 3,
+          "organism_num": 252,
+          "attempts": 12,
+          "steps": 159,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 4,
+          "organism_num": 302,
+          "attempts": 50,
+          "steps": 145,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 5,
+          "organism_num": 320,
+          "attempts": 18,
+          "steps": 135,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 6,
+          "organism_num": 374,
+          "attempts": 54,
+          "steps": 132,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 7,
+          "organism_num": 397,
+          "attempts": 23,
+          "steps": 130,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 416,
+          "attempts": 19,
+          "steps": 133,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 9,
+          "organism_num": 424,
+          "attempts": 8,
+          "steps": 138,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 10,
+          "organism_num": 455,
+          "attempts": 31,
+          "steps": 153,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T09:57:40.403026",
+      "total_organisms": 1259,
+      "total_successes": 10,
+      "success_rate": 0.007942811755361398,
+      "best_steps": 80,
+      "worst_steps": 131,
+      "average_steps": 106.8,
+      "final_food_inherited": 5,
+      "average_energy": 20.6,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 465,
+          "attempts": 465,
+          "steps": 80,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 2,
+          "organism_num": 539,
+          "attempts": 74,
+          "steps": 112,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 3,
+          "organism_num": 608,
+          "attempts": 69,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 4,
+          "organism_num": 631,
+          "attempts": 23,
+          "steps": 131,
+          "food_inherited": 1,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 67
+        },
+        {
+          "success_num": 5,
+          "organism_num": 800,
+          "attempts": 169,
+          "steps": 84,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 6,
+          "organism_num": 920,
+          "attempts": 120,
+          "steps": 87,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 7,
+          "organism_num": 1129,
+          "attempts": 209,
+          "steps": 119,
+          "food_inherited": 4,
+          "food_found": 5,
+          "traps_hit": 1,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1166,
+          "attempts": 37,
+          "steps": 127,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1236,
+          "attempts": 70,
+          "steps": 128,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1259,
+          "attempts": 23,
+          "steps": 103,
+          "food_inherited": 5,
+          "food_found": 5,
+          "traps_hit": 0,
+          "energy_remaining": 37
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T10:09:45.754846",
+      "total_organisms": 795,
+      "total_successes": 10,
+      "success_rate": 0.012578616352201259,
+      "best_steps": 90,
+      "worst_steps": 150,
+      "average_steps": 111.1,
+      "final_food_inherited": 4,
+      "average_energy": 16.9,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 120,
+          "attempts": 120,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 2,
+          "organism_num": 299,
+          "attempts": 179,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 3,
+          "organism_num": 304,
+          "attempts": 5,
+          "steps": 90,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 42
+        },
+        {
+          "success_num": 4,
+          "organism_num": 352,
+          "attempts": 48,
+          "steps": 105,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 5,
+          "organism_num": 436,
+          "attempts": 84,
+          "steps": 150,
+          "food_inherited": 1,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 6,
+          "organism_num": 472,
+          "attempts": 36,
+          "steps": 127,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 7,
+          "organism_num": 535,
+          "attempts": 63,
+          "steps": 111,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 29
+        },
+        {
+          "success_num": 8,
+          "organism_num": 593,
+          "attempts": 58,
+          "steps": 121,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 1,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 713,
+          "attempts": 120,
+          "steps": 90,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 10,
+          "organism_num": 795,
+          "attempts": 82,
+          "steps": 137,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T10:32:42.836106",
+      "total_organisms": 1696,
+      "total_successes": 10,
+      "success_rate": 0.00589622641509434,
+      "best_steps": 82,
+      "worst_steps": 119,
+      "average_steps": 95.9,
+      "final_food_inherited": 1,
+      "average_energy": 9.3,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 257,
+          "attempts": 257,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 2,
+          "organism_num": 324,
+          "attempts": 67,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 594,
+          "attempts": 270,
+          "steps": 111,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 4,
+          "organism_num": 758,
+          "attempts": 164,
+          "steps": 88,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 5,
+          "organism_num": 894,
+          "attempts": 136,
+          "steps": 82,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 6,
+          "organism_num": 1169,
+          "attempts": 275,
+          "steps": 85,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 7,
+          "organism_num": 1172,
+          "attempts": 3,
+          "steps": 100,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1253,
+          "attempts": 81,
+          "steps": 90,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1287,
+          "attempts": 34,
+          "steps": 100,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1496,
+          "attempts": 409,
+          "steps": 119,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T10:44:31.246299",
+      "total_organisms": 1478,
+      "total_successes": 10,
+      "success_rate": 0.006765899864682003,
+      "best_steps": 84,
+      "worst_steps": 136,
+      "average_steps": 111.1,
+      "final_food_inherited": 3,
+      "average_energy": 19.7,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 104,
+          "attempts": 104,
+          "steps": 94,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 38
+        },
+        {
+          "success_num": 2,
+          "organism_num": 230,
+          "attempts": 126,
+          "steps": 95,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 3,
+          "organism_num": 454,
+          "attempts": 224,
+          "steps": 84,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 50
+        },
+        {
+          "success_num": 4,
+          "organism_num": 519,
+          "attempts": 65,
+          "steps": 117,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 5,
+          "organism_num": 591,
+          "attempts": 72,
+          "steps": 107,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 2,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 6,
+          "organism_num": 876,
+          "attempts": 285,
+          "steps": 136,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 7,
+          "organism_num": 962,
+          "attempts": 86,
+          "steps": 134,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1033,
+          "attempts": 71,
+          "steps": 117,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1092,
+          "attempts": 59,
+          "steps": 134,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1478,
+          "attempts": 386,
+          "steps": 93,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T10:48:47.758697",
+      "total_organisms": 1242,
+      "total_successes": 10,
+      "success_rate": 0.008051529790660225,
+      "best_steps": 91,
+      "worst_steps": 139,
+      "average_steps": 115.2,
+      "final_food_inherited": 2,
+      "average_energy": 16.6,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 156,
+          "attempts": 156,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 2,
+          "organism_num": 286,
+          "attempts": 130,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 3,
+          "organism_num": 545,
+          "attempts": 259,
+          "steps": 113,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 4,
+          "organism_num": 741,
+          "attempts": 196,
+          "steps": 116,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 5,
+          "organism_num": 810,
+          "attempts": 69,
+          "steps": 119,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 6,
+          "organism_num": 828,
+          "attempts": 18,
+          "steps": 136,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 7,
+          "organism_num": 899,
+          "attempts": 71,
+          "steps": 132,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 8,
+          "organism_num": 952,
+          "attempts": 53,
+          "steps": 139,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1218,
+          "attempts": 266,
+          "steps": 91,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 49
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1242,
+          "attempts": 24,
+          "steps": 120,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 1,
+          "energy_remaining": 2
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T10:55:08.716973",
+      "total_organisms": 1946,
+      "total_successes": 10,
+      "success_rate": 0.0051387461459403904,
+      "best_steps": 86,
+      "worst_steps": 132,
+      "average_steps": 100.5,
+      "final_food_inherited": 2,
+      "average_energy": 11.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 144,
+          "attempts": 144,
+          "steps": 91,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 2,
+          "organism_num": 301,
+          "attempts": 157,
+          "steps": 86,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 3,
+          "organism_num": 371,
+          "attempts": 70,
+          "steps": 122,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 4,
+          "organism_num": 443,
+          "attempts": 72,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 5,
+          "organism_num": 615,
+          "attempts": 172,
+          "steps": 88,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 808,
+          "attempts": 193,
+          "steps": 93,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 7,
+          "organism_num": 992,
+          "attempts": 184,
+          "steps": 90,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1242,
+          "attempts": 250,
+          "steps": 132,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1277,
+          "attempts": 35,
+          "steps": 116,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1546,
+          "attempts": 669,
+          "steps": 90,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "energy_remaining": 40
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T11:12:33.441827",
+      "total_organisms": 934,
+      "total_successes": 10,
+      "success_rate": 0.010706638115631693,
+      "best_steps": 84,
+      "worst_steps": 132,
+      "average_steps": 108.4,
+      "final_food_inherited": 3,
+      "average_energy": 18.2,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 162,
+          "attempts": 162,
+          "steps": 93,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 2,
+          "organism_num": 289,
+          "attempts": 127,
+          "steps": 108,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 3,
+          "organism_num": 401,
+          "attempts": 112,
+          "steps": 99,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 4,
+          "organism_num": 488,
+          "attempts": 87,
+          "steps": 119,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 5,
+          "organism_num": 574,
+          "attempts": 86,
+          "steps": 107,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 6,
+          "organism_num": 668,
+          "attempts": 94,
+          "steps": 114,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 7,
+          "organism_num": 730,
+          "attempts": 62,
+          "steps": 132,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 8,
+          "organism_num": 796,
+          "attempts": 66,
+          "steps": 84,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 9,
+          "organism_num": 871,
+          "attempts": 75,
+          "steps": 118,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 10,
+          "organism_num": 934,
+          "attempts": 63,
+          "steps": 110,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 33
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T11:31:17.882041",
+      "total_organisms": 1108,
+      "total_successes": 10,
+      "success_rate": 0.009025270758122744,
+      "best_steps": 86,
+      "worst_steps": 128,
+      "average_steps": 109.7,
+      "final_food_inherited": 4,
+      "average_energy": 17.6,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 198,
+          "attempts": 198,
+          "steps": 101,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 2,
+          "organism_num": 312,
+          "attempts": 114,
+          "steps": 94,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 3,
+          "organism_num": 447,
+          "attempts": 135,
+          "steps": 122,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 4,
+          "organism_num": 531,
+          "attempts": 84,
+          "steps": 128,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 5,
+          "organism_num": 628,
+          "attempts": 97,
+          "steps": 86,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 6,
+          "organism_num": 719,
+          "attempts": 91,
+          "steps": 111,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 7,
+          "organism_num": 808,
+          "attempts": 89,
+          "steps": 121,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 8,
+          "organism_num": 882,
+          "attempts": 74,
+          "steps": 108,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 9,
+          "organism_num": 997,
+          "attempts": 115,
+          "steps": 114,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1108,
+          "attempts": 111,
+          "steps": 118,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 35
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T11:52:44.219384",
+      "total_organisms": 1377,
+      "total_successes": 10,
+      "success_rate": 0.007262165578793754,
+      "best_steps": 83,
+      "worst_steps": 130,
+      "average_steps": 107.2,
+      "final_food_inherited": 3,
+      "average_energy": 19.4,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 244,
+          "attempts": 244,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 2,
+          "organism_num": 388,
+          "attempts": 144,
+          "steps": 113,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 3,
+          "organism_num": 534,
+          "attempts": 146,
+          "steps": 93,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 1,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 4,
+          "organism_num": 641,
+          "attempts": 107,
+          "steps": 120,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 5,
+          "organism_num": 744,
+          "attempts": 103,
+          "steps": 107,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 6,
+          "organism_num": 857,
+          "attempts": 113,
+          "steps": 83,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 7,
+          "organism_num": 994,
+          "attempts": 137,
+          "steps": 110,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1089,
+          "attempts": 95,
+          "steps": 115,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1214,
+          "attempts": 125,
+          "steps": 130,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1377,
+          "attempts": 163,
+          "steps": 105,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 39
+        }
+      ]
+    },
+    {
+      "version": "Realistic LTM",
+      "timestamp": "2026-04-09T12:14:09.663712",
+      "total_organisms": 1031,
+      "total_successes": 10,
+      "success_rate": 0.009699320077594569,
+      "best_steps": 88,
+      "worst_steps": 133,
+      "average_steps": 111.8,
+      "final_food_inherited": 4,
+      "average_energy": 20.1,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 176,
+          "attempts": 176,
+          "steps": 98,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 2,
+          "organism_num": 318,
+          "attempts": 142,
+          "steps": 103,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 422,
+          "attempts": 104,
+          "steps": 126,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 4,
+          "organism_num": 519,
+          "attempts": 97,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 5,
+          "organism_num": 604,
+          "attempts": 85,
+          "steps": 88,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 20
+        },
+        {
+          "success_num": 6,
+          "organism_num": 703,
+          "attempts": 99,
+          "steps": 117,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 7,
+          "organism_num": 793,
+          "attempts": 90,
+          "steps": 107,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "energy_remaining": 13
+        },
+        {
+          "success_num": 8,
+          "organism_num": 874,
+          "attempts": 81,
+          "steps": 119,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 27
+        },
+        {
+          "success_num": 9,
+          "organism_num": 951,
+          "attempts": 77,
+          "steps": 112,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1031,
+          "attempts": 80,
+          "steps": 116,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "energy_remaining": 41
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T11:10:57.501820",
+      "total_organisms": 1442,
+      "total_successes": 10,
+      "success_rate": 0.006934812760055479,
+      "best_steps": 96,
+      "worst_steps": 129,
+      "average_steps": 109.2,
+      "final_food_inherited": 3,
+      "average_energy": 15.6,
+      "total_wm_truncations": 33,
+      "total_words_dropped": 386,
+      "total_communications": 75,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 448,
+          "attempts": 448,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 2,
+          "organism_num": 483,
+          "attempts": 35,
+          "steps": 97,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 37
+        },
+        {
+          "success_num": 3,
+          "organism_num": 612,
+          "attempts": 129,
+          "steps": 127,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 4,
+          "organism_num": 736,
+          "attempts": 124,
+          "steps": 97,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 5,
+          "organism_num": 892,
+          "attempts": 156,
+          "steps": 100,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 6,
+          "organism_num": 1064,
+          "attempts": 172,
+          "steps": 101,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 29
+        },
+        {
+          "success_num": 7,
+          "organism_num": 1146,
+          "attempts": 82,
+          "steps": 123,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 17
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1155,
+          "attempts": 9,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 15
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1170,
+          "attempts": 15,
+          "steps": 129,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1442,
+          "attempts": 272,
+          "steps": 96,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T12:44:18.337621",
+      "total_organisms": 978,
+      "total_successes": 10,
+      "success_rate": 0.010226512226512226,
+      "best_steps": 85,
+      "worst_steps": 138,
+      "average_steps": 112.4,
+      "final_food_inherited": 3,
+      "average_energy": 17.8,
+      "total_wm_truncations": 38,
+      "total_words_dropped": 401,
+      "total_communications": 82,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 201,
+          "attempts": 201,
+          "steps": 97,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 2,
+          "organism_num": 344,
+          "attempts": 143,
+          "steps": 104,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 3,
+          "organism_num": 468,
+          "attempts": 124,
+          "steps": 118,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 4,
+          "organism_num": 562,
+          "attempts": 94,
+          "steps": 113,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 5,
+          "organism_num": 651,
+          "attempts": 89,
+          "steps": 138,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 2
+        },
+        {
+          "success_num": 6,
+          "organism_num": 734,
+          "attempts": 83,
+          "steps": 85,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 21
+        },
+        {
+          "success_num": 7,
+          "organism_num": 812,
+          "attempts": 78,
+          "steps": 119,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 8,
+          "organism_num": 876,
+          "attempts": 64,
+          "steps": 109,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 9,
+          "organism_num": 934,
+          "attempts": 58,
+          "steps": 116,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 10,
+          "organism_num": 978,
+          "attempts": 44,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T13:02:55.114483",
+      "total_organisms": 1144,
+      "total_successes": 10,
+      "success_rate": 0.00874125874125874,
+      "best_steps": 87,
+      "worst_steps": 141,
+      "average_steps": 114.6,
+      "final_food_inherited": 4,
+      "average_energy": 18.9,
+      "total_wm_truncations": 44,
+      "total_words_dropped": 462,
+      "total_communications": 98,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 233,
+          "attempts": 233,
+          "steps": 103,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 2,
+          "organism_num": 371,
+          "attempts": 138,
+          "steps": 116,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 3,
+          "organism_num": 498,
+          "attempts": 127,
+          "steps": 98,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 14
+        },
+        {
+          "success_num": 4,
+          "organism_num": 601,
+          "attempts": 103,
+          "steps": 141,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 5,
+          "organism_num": 697,
+          "attempts": 96,
+          "steps": 87,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 17
+        },
+        {
+          "success_num": 6,
+          "organism_num": 779,
+          "attempts": 82,
+          "steps": 122,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 18
+        },
+        {
+          "success_num": 7,
+          "organism_num": 864,
+          "attempts": 85,
+          "steps": 115,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 25
+        },
+        {
+          "success_num": 8,
+          "organism_num": 948,
+          "attempts": 84,
+          "steps": 124,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1044,
+          "attempts": 96,
+          "steps": 109,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1144,
+          "attempts": 100,
+          "steps": 118,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 40
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T13:24:11.778204",
+      "total_organisms": 1267,
+      "total_successes": 10,
+      "success_rate": 0.007892659511445146,
+      "best_steps": 86,
+      "worst_steps": 136,
+      "average_steps": 111.3,
+      "final_food_inherited": 3,
+      "average_energy": 19.7,
+      "total_wm_truncations": 51,
+      "total_words_dropped": 539,
+      "total_communications": 109,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 271,
+          "attempts": 271,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 2,
+          "organism_num": 409,
+          "attempts": 138,
+          "steps": 107,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 3,
+          "organism_num": 541,
+          "attempts": 132,
+          "steps": 112,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 4,
+          "organism_num": 648,
+          "attempts": 107,
+          "steps": 136,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 739,
+          "attempts": 91,
+          "steps": 93,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 19
+        },
+        {
+          "success_num": 6,
+          "organism_num": 831,
+          "attempts": 92,
+          "steps": 118,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 7,
+          "organism_num": 921,
+          "attempts": 90,
+          "steps": 86,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1021,
+          "attempts": 100,
+          "steps": 121,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 29
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1131,
+          "attempts": 110,
+          "steps": 125,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1267,
+          "attempts": 136,
+          "steps": 116,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 46
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T13:48:33.991047",
+      "total_organisms": 889,
+      "total_successes": 10,
+      "success_rate": 0.011249859551012374,
+      "best_steps": 88,
+      "worst_steps": 133,
+      "average_steps": 110.8,
+      "final_food_inherited": 4,
+      "average_energy": 20.3,
+      "total_wm_truncations": 33,
+      "total_words_dropped": 348,
+      "total_communications": 74,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 187,
+          "attempts": 187,
+          "steps": 95,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 2,
+          "organism_num": 309,
+          "attempts": 122,
+          "steps": 109,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 3,
+          "organism_num": 421,
+          "attempts": 112,
+          "steps": 121,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 4,
+          "organism_num": 513,
+          "attempts": 92,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 5,
+          "organism_num": 599,
+          "attempts": 86,
+          "steps": 88,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 22
+        },
+        {
+          "success_num": 6,
+          "organism_num": 676,
+          "attempts": 77,
+          "steps": 114,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 7,
+          "organism_num": 749,
+          "attempts": 73,
+          "steps": 108,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 32
+        },
+        {
+          "success_num": 8,
+          "organism_num": 812,
+          "attempts": 63,
+          "steps": 118,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 34
+        },
+        {
+          "success_num": 9,
+          "organism_num": 856,
+          "attempts": 44,
+          "steps": 112,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 28
+        },
+        {
+          "success_num": 10,
+          "organism_num": 889,
+          "attempts": 33,
+          "steps": 113,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 39
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T11:35:58.788679",
+      "total_organisms": 1446,
+      "total_successes": 10,
+      "success_rate": 0.006915629322268326,
+      "best_steps": 88,
+      "worst_steps": 135,
+      "average_steps": 108.0,
+      "final_food_inherited": 3,
+      "average_energy": 19.8,
+      "total_wm_truncations": 46,
+      "total_words_dropped": 321,
+      "total_communications": 113,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 312,
+          "attempts": 312,
+          "steps": 102,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 2,
+          "organism_num": 673,
+          "attempts": 361,
+          "steps": 96,
+          "food_inherited": 1,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 3,
+          "organism_num": 816,
+          "attempts": 143,
+          "steps": 102,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 4,
+          "organism_num": 915,
+          "attempts": 99,
+          "steps": 98,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 32
+        },
+        {
+          "success_num": 5,
+          "organism_num": 996,
+          "attempts": 81,
+          "steps": 98,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 42
+        },
+        {
+          "success_num": 6,
+          "organism_num": 1151,
+          "attempts": 155,
+          "steps": 88,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        },
+        {
+          "success_num": 7,
+          "organism_num": 1220,
+          "attempts": 69,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 8,
+          "organism_num": 1232,
+          "attempts": 12,
+          "steps": 135,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1358,
+          "attempts": 126,
+          "steps": 100,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1446,
+          "attempts": 88,
+          "steps": 128,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 12
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T11:39:01.573501",
+      "total_organisms": 990,
+      "total_successes": 10,
+      "success_rate": 0.010101010101010102,
+      "best_steps": 84,
+      "worst_steps": 136,
+      "average_steps": 105.2,
+      "final_food_inherited": 3,
+      "average_energy": 18.6,
+      "total_wm_truncations": 33,
+      "total_words_dropped": 333,
+      "total_communications": 87,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 160,
+          "attempts": 160,
+          "steps": 89,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 11
+        },
+        {
+          "success_num": 2,
+          "organism_num": 259,
+          "attempts": 99,
+          "steps": 96,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 38
+        },
+        {
+          "success_num": 3,
+          "organism_num": 321,
+          "attempts": 62,
+          "steps": 89,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 43
+        },
+        {
+          "success_num": 4,
+          "organism_num": 378,
+          "attempts": 57,
+          "steps": 126,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 5,
+          "organism_num": 501,
+          "attempts": 123,
+          "steps": 84,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 6,
+          "organism_num": 647,
+          "attempts": 146,
+          "steps": 84,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 7,
+          "organism_num": 663,
+          "attempts": 16,
+          "steps": 136,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 4
+        },
+        {
+          "success_num": 8,
+          "organism_num": 751,
+          "attempts": 88,
+          "steps": 123,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 17
+        },
+        {
+          "success_num": 9,
+          "organism_num": 885,
+          "attempts": 134,
+          "steps": 106,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 34
+        },
+        {
+          "success_num": 10,
+          "organism_num": 990,
+          "attempts": 105,
+          "steps": 119,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 2,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T13:57:42.648973",
+      "total_organisms": 1165,
+      "total_successes": 10,
+      "success_rate": 0.008583690987124463,
+      "best_steps": 99,
+      "worst_steps": 161,
+      "average_steps": 119.3,
+      "final_food_inherited": 4,
+      "average_energy": 23.8,
+      "total_wm_truncations": 47,
+      "total_words_dropped": 409,
+      "total_communications": 90,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 121,
+          "attempts": 121,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 2,
+          "organism_num": 155,
+          "attempts": 34,
+          "steps": 125,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 3,
+          "organism_num": 207,
+          "attempts": 52,
+          "steps": 161,
+          "food_inherited": 1,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 5
+        },
+        {
+          "success_num": 4,
+          "organism_num": 283,
+          "attempts": 76,
+          "steps": 116,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 24
+        },
+        {
+          "success_num": 5,
+          "organism_num": 433,
+          "attempts": 150,
+          "steps": 110,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 30
+        },
+        {
+          "success_num": 6,
+          "organism_num": 568,
+          "attempts": 135,
+          "steps": 107,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 33
+        },
+        {
+          "success_num": 7,
+          "organism_num": 747,
+          "attempts": 179,
+          "steps": 126,
+          "food_inherited": 3,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 1,
+          "energy_remaining": 47
+        },
+        {
+          "success_num": 8,
+          "organism_num": 868,
+          "attempts": 121,
+          "steps": 107,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 33
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1065,
+          "attempts": 197,
+          "steps": 117,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 2,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1165,
+          "attempts": 100,
+          "steps": 125,
+          "food_inherited": 4,
+          "food_found": 4,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 55
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T14:08:27.497462",
+      "total_organisms": 1339,
+      "total_successes": 10,
+      "success_rate": 0.0074682598954443615,
+      "best_steps": 90,
+      "worst_steps": 133,
+      "average_steps": 108.0,
+      "final_food_inherited": 2,
+      "average_energy": 10.6,
+      "total_wm_truncations": 53,
+      "total_words_dropped": 553,
+      "total_communications": 121,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 150,
+          "attempts": 150,
+          "steps": 99,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 2,
+          "organism_num": 264,
+          "attempts": 114,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 3,
+          "organism_num": 309,
+          "attempts": 45,
+          "steps": 129,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 3
+        },
+        {
+          "success_num": 4,
+          "organism_num": 392,
+          "attempts": 83,
+          "steps": 127,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 5,
+          "organism_num": 452,
+          "attempts": 60,
+          "steps": 94,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 6
+        },
+        {
+          "success_num": 6,
+          "organism_num": 574,
+          "attempts": 122,
+          "steps": 93,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 7,
+          "organism_num": 655,
+          "attempts": 81,
+          "steps": 94,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 46
+        },
+        {
+          "success_num": 8,
+          "organism_num": 808,
+          "attempts": 153,
+          "steps": 90,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 10
+        },
+        {
+          "success_num": 9,
+          "organism_num": 1085,
+          "attempts": 477,
+          "steps": 133,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 7
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1139,
+          "attempts": 54,
+          "steps": 129,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 11
+        }
+      ]
+    },
+    {
+      "version": "Imperfect STM",
+      "timestamp": "2026-04-09T14:12:50.292716",
+      "total_organisms": 1001,
+      "total_successes": 10,
+      "success_rate": 0.00999000999000999,
+      "best_steps": 91,
+      "worst_steps": 148,
+      "average_steps": 107.9,
+      "final_food_inherited": 3,
+      "average_energy": 15.9,
+      "total_wm_truncations": 46,
+      "total_words_dropped": 477,
+      "total_communications": 87,
+      "per_success": [
+        {
+          "success_num": 1,
+          "organism_num": 137,
+          "attempts": 137,
+          "steps": 92,
+          "food_inherited": 0,
+          "food_found": 0,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 8
+        },
+        {
+          "success_num": 2,
+          "organism_num": 252,
+          "attempts": 115,
+          "steps": 91,
+          "food_inherited": 0,
+          "food_found": 1,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 31
+        },
+        {
+          "success_num": 3,
+          "organism_num": 263,
+          "attempts": 11,
+          "steps": 148,
+          "food_inherited": 1,
+          "food_found": 2,
+          "traps_hit": 1,
+          "wm_truncations": 0,
+          "energy_remaining": 16
+        },
+        {
+          "success_num": 4,
+          "organism_num": 354,
+          "attempts": 91,
+          "steps": 105,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 35
+        },
+        {
+          "success_num": 5,
+          "organism_num": 520,
+          "attempts": 166,
+          "steps": 91,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 9
+        },
+        {
+          "success_num": 6,
+          "organism_num": 604,
+          "attempts": 84,
+          "steps": 99,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 1
+        },
+        {
+          "success_num": 7,
+          "organism_num": 801,
+          "attempts": 197,
+          "steps": 100,
+          "food_inherited": 2,
+          "food_found": 2,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 0
+        },
+        {
+          "success_num": 8,
+          "organism_num": 887,
+          "attempts": 86,
+          "steps": 106,
+          "food_inherited": 2,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 26
+        },
+        {
+          "success_num": 9,
+          "organism_num": 998,
+          "attempts": 111,
+          "steps": 117,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 23
+        },
+        {
+          "success_num": 10,
+          "organism_num": 1001,
+          "attempts": 3,
+          "steps": 130,
+          "food_inherited": 3,
+          "food_found": 3,
+          "traps_hit": 0,
+          "wm_truncations": 0,
+          "energy_remaining": 10
+        }
+      ]
+    }
+  ]
+}
