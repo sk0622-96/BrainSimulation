@@ -15,10 +15,12 @@ import numpy as np
 os.environ['TK_SILENCE_DEPRECATION'] = '1'
 
 HISTORY_FILE = "/Users/tommysupey/Desktop/Brain Simulation/version2_history.json"
-OUT_DIR      = "/Users/tommysupey/Desktop/Brain Simulation/charts"
+OUT_DIR      = "/Users/tommysupey/Desktop/Brain Simulation/graphs"
 BLUE   = '#2E86AB'
 GREEN  = '#4CAF82'
 RED    = '#E76F51'
+ORANGE = '#F4A261'
+PURPLE = '#7C4DFF'
 DARK   = '#222222'
 
 
@@ -65,7 +67,7 @@ def chart_episodes(runs, all_pg, max_gen, gens):
         ax.annotate(f'{y:.0f}', (x, y), textcoords='offset points',
                     xytext=(0, 9), ha='center', fontsize=9,
                     fontweight='bold', color=BLUE)
-    ax.set_title('Episodes to goal per generation — average across all runs',
+    ax.set_title('Avg episodes per generation/success (across all runs)',
                  fontsize=11, fontweight='bold', pad=10)
     ax.set_ylabel('Episodes', fontsize=10)
     ax.set_xlabel('Generation', fontsize=10)
@@ -119,7 +121,7 @@ def chart_energy(all_pg, max_gen):
             gen_labels.append(f'Gen {g}')
 
     fig, ax = plt.subplots(figsize=(7, 5))
-    bars = ax.bar(gen_labels, gen_avg_energy, color=GREEN, edgecolor='white',
+    bars = ax.bar(gen_labels, gen_avg_energy, color=ORANGE, edgecolor='white',
                   linewidth=1.2, alpha=0.88, width=0.5)
     for bar, val in zip(bars, gen_avg_energy):
         ax.text(bar.get_x() + bar.get_width()/2,
@@ -141,6 +143,38 @@ def chart_energy(all_pg, max_gen):
     save_chart(fig, 'v2_energy_per_generation.png')
 
 
+def chart_episodes_bar(all_pg, max_gen):
+    gen_avg_episodes = []
+    gen_labels = []
+    for g in range(1, max_gen + 1):
+        vals = [pg[g-1]['episodes'] for pg in all_pg if len(pg) >= g]
+        if vals:
+            gen_avg_episodes.append(sum(vals) / len(vals))
+            gen_labels.append(f'Gen {g}')
+
+    fig, ax = plt.subplots(figsize=(7, 5))
+    bars = ax.bar(gen_labels, gen_avg_episodes, color=PURPLE, edgecolor='white',
+                  linewidth=1.2, alpha=0.88, width=0.5)
+    for bar, val in zip(bars, gen_avg_episodes):
+        ax.text(bar.get_x() + bar.get_width()/2,
+                bar.get_height() + max(gen_avg_episodes) * 0.015,
+                f'{val:.0f}', ha='center', va='bottom',
+                fontsize=9, fontweight='bold', color=DARK)
+    ax.axhline(np.mean(gen_avg_episodes), color=RED, linestyle='--',
+               linewidth=1.3, alpha=0.7,
+               label=f'Overall avg: {np.mean(gen_avg_episodes):.0f}')
+    ax.set_title('Avg episodes per generation/success (across all runs)',
+                 fontsize=11, fontweight='bold', pad=10)
+    ax.set_ylabel('Avg episodes', fontsize=10)
+    ax.set_xlabel('Generation', fontsize=10)
+    ax.spines[['top', 'right']].set_visible(False)
+    ax.grid(axis='y', alpha=0.2, linestyle='--')
+    ax.legend(fontsize=9)
+    ax.tick_params(axis='x', labelsize=9)
+    fig.tight_layout()
+    save_chart(fig, 'v2_episodes_bar.png')
+
+
 def main():
     runs = load_history()
     all_pg  = [r.get('per_generation', []) for r in runs if r.get('per_generation')]
@@ -148,6 +182,7 @@ def main():
     gens    = list(range(1, max_gen + 1))
 
     chart_episodes(runs, all_pg, max_gen, gens)
+    chart_episodes_bar(all_pg, max_gen)
     chart_steps(all_pg, max_gen)
     chart_energy(all_pg, max_gen)
 
